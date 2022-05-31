@@ -171,6 +171,8 @@ print('Mean Accuracy: %.3f%%' % (sum(scores)/float(len(scores))))
 
 ![169354034-0fabb03e-198e-459d-8243-5084be30fd7d](https://user-images.githubusercontent.com/75235022/169446213-2fb8b56f-e1c5-47ea-a916-aea7b30bd2c1.png)
 
+<br>
+<br>
 
 ## Result:
 Thus the python program successully implemented KNN classification algorithm.
